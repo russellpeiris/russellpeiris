@@ -1,5 +1,9 @@
 <h2 align="left">Russell Peiris</h2>
-With the goal of becoming a seasoned software engineer, I am currently completing the final semester of my BSc (Hons) in Information Technology, specializing in Software Engineering at SLIIT with 1 year and 6 months of industry experience.
+Focused on ensuring system reliability, observability, and performance across complex distributed environments.
+
+My work centres around building and maintaining robust monitoring and alerting systems, optimizing reliability metrics, and leading effective incident management processes to minimize downtime and improve system resilience.
+
+Beyond incident response, I focus on continuous improvement, identifying patterns, eliminating toil, and driving initiatives that improve availability and performance at scale.
 <h2 align="left"> 🛠 Skills</h2>
 
 ###
